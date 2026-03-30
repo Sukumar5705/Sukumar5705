@@ -1,12 +1,30 @@
 # 👋 Sukumar Erugadindla
 
-🎓 Computer Science Engineering Student — MGIT (CGPA: 8.6)  
+🎓 Computer Science Engineering @ MGIT (CGPA: 8.6)  
 💻 Full Stack Developer | AI/ML Engineer  
-🚀 Focused on building scalable systems and intelligent applications  
+🚀 Building scalable systems & intelligent applications  
+📈 Focused on performance, clean architecture, and real-world impact  
 
 ---
-## Stats
-[![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sukumar5705&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sukumar5705&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=Sukumar5705&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukumar5705&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sukumar5705&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
 
 ## 🔗 Contact
 
@@ -18,9 +36,9 @@
 
 ## 🧠 Professional Summary
 
-Results-driven Computer Science undergraduate with hands-on experience in **full-stack development and machine learning systems**. Proven ability to design, develop, and deploy scalable applications with measurable impact.
+Results-driven Computer Science undergraduate with strong expertise in **Data Structures, Full-Stack Development, and Machine Learning systems**.
 
-Strong expertise in **React, Node.js, Python, and ML frameworks**, with a focus on performance optimization, API design, and real-world problem solving.
+Experienced in building **scalable, high-performance applications** using **React.js, Node.js, and Python**, with a focus on **API design, system optimization, and real-world problem solving**.
 
 ---
 
@@ -35,50 +53,48 @@ Strong expertise in **React, Node.js, Python, and ML frameworks**, with a focus 
 
 ---
 
-## 🚀 Projects (Impact-Focused)
+## 🚀 Projects
 
 ### 🔹 AI Code Reviewer  
 🔗 https://github.com/Sukumar5705/code-review  
 
-- Built a full-stack AI-powered code review platform using **React + Node.js**
-- Integrated **Generative AI APIs**, reducing manual code review effort by **~40%**
-- Designed REST APIs handling structured code input and responses with **low latency (<300ms)**
-- Improved code quality by detecting syntax and logical issues automatically  
+- Built a full-stack AI-powered code review system using **React + Node.js**
+- Reduced manual review effort by **~40%** using Generative AI integration  
+- Designed low-latency APIs (**<300ms response time**)  
+- Automated detection of syntax & logical issues improving code quality  
 
 ---
 
 ### 🔹 HyperCare – AI Health Prediction System  
 
-- Developed an ML-based system predicting hypertension risk with **~85% accuracy**
-- Engineered features from lifestyle datasets improving model performance by **20%**
-- Delivered **personalized health recommendations** based on user inputs
-- Integrated ML backend (Flask) with React frontend for real-time predictions  
+- Developed ML model predicting hypertension risk with **~85% accuracy**  
+- Improved model performance by **20% through feature engineering**  
+- Delivered personalized health insights via integrated React + Flask system  
 
 ---
 
 ### 🔹 Employee Task Management System  
 🔗 https://github.com/Sukumar5705/employee-management-system  
 
-- Built a role-based task management system supporting **multi-user workflows**
-- Designed admin & employee dashboards improving task tracking efficiency by **30%**
-- Implemented modular React components for scalable UI architecture  
-- Reduced UI load time by **~25%** using optimized rendering  
+- Built scalable role-based system supporting **multi-user workflows**  
+- Improved task tracking efficiency by **~30%**  
+- Reduced UI load time by **~25% using optimized rendering techniques**  
 
 ---
 
 ### 🔹 Dynamic English Dictionary  
 
-- Developed a responsive web app with **real-time API integration**
-- Enabled phonetics + audio playback, improving UX engagement
-- Achieved **sub-second response time** for word queries  
+- Built responsive app with real-time API integration  
+- Enabled phonetics + audio playback for enhanced UX  
+- Achieved **sub-second response time**  
 
 ---
 
 ### 🔹 QR Code File Sharing Server  
 
-- Built a Python-based local file-sharing system using HTTP server
-- Enabled **cross-device file transfer in <5 seconds** via QR code scanning  
-- Eliminated need for external apps in local network sharing  
+- Developed local file-sharing system using Python HTTP server  
+- Enabled cross-device transfer in **<5 seconds via QR scanning**  
+- Eliminated dependency on third-party apps  
 
 ---
 
@@ -93,16 +109,8 @@ Strong expertise in **React, Node.js, Python, and ML frameworks**, with a focus 
 
 ## 🏆 Achievements
 
-- 🥇 Led a team in HackSavvy National Hackathon (Top-performing solution)  
+- 🥇 Top-performing team — HackSavvy National Hackathon  
 - 📄 Published research paper on Hybrid Cryptographic Systems  
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sukumar5705&show_icons=true)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sukumar5705&layout=compact)  
 
 ---
 
@@ -111,26 +119,25 @@ Strong expertise in **React, Node.js, Python, and ML frameworks**, with a focus 
 - Scalable Backend System Design  
 - AI-powered Web Applications  
 - Machine Learning Optimization  
-- High-performance APIs  
+- High-performance API Development  
 
 ---
 
-## 💡 Key Strengths
+## 💡 Strengths
 
-- Strong Data Structures & Problem Solving  
-- End-to-End System Development  
-- Performance Optimization & Clean Code Practices  
-- Fast Learning & Adaptability  
+- Strong Data Structures & Algorithms  
+- End-to-End System Design  
+- Performance Optimization  
+- Clean, Maintainable Code Practices  
 
 ---
 
-## 📌 Opportunities
+## 📌 Open To
 
-Actively seeking:
 - Software Engineering Internships  
 - Full Stack Developer Roles  
-- AI/ML Engineering Roles  
+- AI/ML Engineering Opportunities  
 
 ---
 
-⭐ *Open to collaboration on impactful and scalable projects*
+⭐ *Open to collaboration on impactful, scalable projects*
