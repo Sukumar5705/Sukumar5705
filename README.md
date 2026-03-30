@@ -10,12 +10,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sukumar5705&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sukumar5705&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://streak-stats.demolab.com?user=Sukumar5705&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukumar5705&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sukumar5705&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
