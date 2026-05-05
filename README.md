@@ -72,6 +72,7 @@ Experienced in building **scalable, high-performance applications** using **Reac
 ---
 
 ### 🔹 HyperCare – AI Health Prediction System  
+🔗 https://github.com/Sukumar5705/bp-predictor
 
 - Developed ML model predicting hypertension risk with **~85% accuracy**  
 - Improved model performance by **20% through feature engineering**  
