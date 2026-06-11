@@ -31,12 +31,7 @@ Experienced in building **scalable, high-performance applications** using **Reac
 - 🧪 Machine Learning Optimization
 - 🚀 High-performance API Development
 
-## 🌱 Currently Learning
 
-- ☸️ Kubernetes & Container Orchestration
-- 🏗️ Advanced System Design
-- ☁️ Cloud Architecture (GCP)
-- 🔗 Distributed Systems
 
 ---
 
