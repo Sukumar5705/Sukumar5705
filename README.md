@@ -38,63 +38,56 @@ Experienced in building **scalable, high-performance applications** using **Reac
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Sukumar5705/code-review">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sukumar5705&repo=code-review&theme=tokyonight" />
+  <a href="https://github.com/Sukumar5705/CardioSense-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sukumar5705&repo=CardioSense-AI&theme=tokyonight" />
   </a>
-  <a href="https://github.com/Sukumar5705/bp-predictor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sukumar5705&repo=bp-predictor&theme=tokyonight" />
+  <a href="https://github.com/Sukumar5705/ai-agentic-news-aggregator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sukumar5705&repo=ai-agentic-news-aggregator&theme=tokyonight" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Sukumar5705/employee-management-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sukumar5705&repo=employee-management-system&theme=tokyonight" />
+  <a href="https://github.com/Sukumar5705/hospital-appointment-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sukumar5705&repo=hospital-appointment-system&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Sukumar5705/code-review">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sukumar5705&repo=code-review&theme=tokyonight" />
   </a>
 </p>
 
-### 🔹 AI Code Reviewer
+### 🫀 CardioSense AI
+🔗 https://github.com/Sukumar5705/CardioSense-AI
+
+- Developed a production-grade AI-powered cardiovascular risk prediction API using **FastAPI, XGBoost, SHAP, and Optuna**
+- Achieved **0.89 ROC-AUC** with calibrated probability estimates for reliable heart disease risk assessment
+- Integrated **LLM-powered patient consultation**, SHAP explainability, medical report parsing, Docker deployment, and CI/CD
+
+---
+
+### 📰 AI Agentic News Aggregator
+🔗 https://github.com/Sukumar5705/ai-agentic-news-aggregator
+
+- Built an **AI-powered news aggregation platform** that collects updates from RSS feeds, YouTube, and leading AI sources
+- Automated article extraction, **LLM-based summarization**, PostgreSQL storage, duplicate detection, and daily digest generation
+- Delivered curated AI news directly via **automated email reports** using Gmail SMTP and scheduled pipelines
+
+---
+
+### 🏥 Hospital Appointment Booking System
+🔗 https://github.com/Sukumar5705/hospital-appointment-system
+
+- Developed a **microservices-based hospital appointment platform** using Node.js, Express, MongoDB, Docker, and Jenkins
+- Implemented **role-based authentication**, doctor management, appointment scheduling, and Docker Compose orchestration
+- Automated containerized deployment through **Jenkins CI/CD** with Docker Hub integration
+
+---
+
+### 🤖 AI Code Reviewer
 🔗 https://github.com/Sukumar5705/code-review
 
-- Built a full-stack AI-powered code review system using **React + Node.js**
-- Reduced manual review effort by **~40%** using Generative AI integration
-- Designed low-latency APIs (**<300ms response time**)
-- Automated detection of syntax & logical issues improving code quality
-
----
-
-### 🔹 HyperCare – AI Health Prediction System
-🔗 https://github.com/Sukumar5705/bp-predictor
-
-- Developed ML model predicting hypertension risk with **~85% accuracy**
-- Improved model performance by **20% through feature engineering**
-- Delivered personalized health insights via integrated React + Flask system
-
----
-
-### 🔹 Employee Task Management System
-🔗 https://github.com/Sukumar5705/employee-management-system
-
-- Built scalable role-based system supporting **multi-user workflows**
-- Improved task tracking efficiency by **~30%**
-- Reduced UI load time by **~25% using optimized rendering techniques**
-
----
-
-### 🔹 Dynamic English Dictionary
-
-- Built responsive app with real-time API integration
-- Enabled phonetics + audio playback for enhanced UX
-- Achieved **sub-second response time**
-
----
-
-### 🔹 QR Code File Sharing Server
-
-- Developed local file-sharing system using Python HTTP server
-- Enabled cross-device transfer in **<5 seconds via QR scanning**
-- Eliminated dependency on third-party apps
-
----
+- Built a **full-stack AI-powered code review platform** using React, Node.js, Express, and Google Gemini
+- Generated intelligent feedback on **code quality, security, performance, readability, and best practices**
+- Implemented syntax-highlighted editing, Markdown-rendered AI responses, and REST API integration
 
 ## 💻 Tech Stack
 
