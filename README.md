@@ -41,7 +41,7 @@ Experienced in building **scalable, high-performance applications** using **Reac
   <a href="https://github.com/Sukumar5705/CardioSense-AI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sukumar5705&repo=CardioSense-AI&theme=tokyonight" />
   </a>
-  <a href="[https://github.com/Sukumar5705/ai-agentic-news-aggregator/public/assets/](https://github.com/Sukumar5705/ai-agentic-news-aggregator/blob/main/app/public/assets/ChatGPT%20Image%20Aug%202%2C%202026%2C%2005_33_31%20PM.png)">
+  <a href="https://github.com/Sukumar5705/ai-agentic-news-aggregator/blob/main/app/public/assets/image.png">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sukumar5705&repo=ai-agentic-news-aggregator&theme=tokyonight" />
   </a>
 </p>
