@@ -73,8 +73,15 @@
   My GitHub Stats
 </h3>
 
+<h2 align="center">📊 GitHub Analytics</h2>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sukumar5705&theme=github-dark-blue&border_radius=6.1&card_width=515&card_height=200)](https://git.io/streak-stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sukumar5705&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukumar5705&layout=compact&theme=github_dark&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sukumar5705&theme=github-dark&hide_border=true&area=true" width="95%"/>
 </p>
 
 
